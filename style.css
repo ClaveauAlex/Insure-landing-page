@@ -168,6 +168,11 @@ header::before{
 
 .title{
     margin-top: 80px;
+    margin-right: 20px;
+}
+
+.title p{
+    color: var(--dark-grayish-violet);
 }
 
 /* Footer styling*/
